@@ -1,0 +1,8 @@
+D:\programming\Robotic\my new robot\robot\robot\bin\Debug\robot.exe
+D:\programming\Robotic\my new robot\robot\robot\bin\Debug\robot.pdb
+D:\programming\Robotic\my new robot\robot\robot\obj\Debug\ResolveAssemblyReference.cache
+D:\programming\Robotic\my new robot\robot\robot\obj\Debug\robot.Form1.resources
+D:\programming\Robotic\my new robot\robot\robot\obj\Debug\robot.Properties.Resources.resources
+D:\programming\Robotic\my new robot\robot\robot\obj\Debug\robot.csproj.GenerateResource.Cache
+D:\programming\Robotic\my new robot\robot\robot\obj\Debug\robot.exe
+D:\programming\Robotic\my new robot\robot\robot\obj\Debug\robot.pdb
